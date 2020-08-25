@@ -27,6 +27,7 @@ void DeleteArray(int** Field, int Size);
 int main()
 {
 	srand(time(NULL));
+cout<<"helo";
 	DoArr();
 	SetConsoleTextAttribute(hStdOut, (WORD)(15));
 	cout << endl << endl;
